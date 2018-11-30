@@ -1,5 +1,0 @@
-databaseChangeLog:
-    - include:
-        - file: changes/v1.sql
-        - relativeToChangelogFile: true
-  
