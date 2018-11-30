@@ -3,8 +3,8 @@ management.port: 8015
 
 spring.datasource.url: jdbc:postgresql://localhost:5432/users
 spring.datasource.driver-class-name: org.postgresql.Driver
-spring.datasource.username: bassemsalama
-spring.datasource.password: ahlawy4ever
+spring.datasource.username: postgres
+spring.datasource.password: postgres
 
 spring.jpa.properties.hibernate.dialect: org.hibernate.dialect.PostgreSQL94Dialect
 
